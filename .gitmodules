@@ -1,3 +1,6 @@
 [submodule "platforms/python/django/django-blog-tutorial"]
 	path = platforms/python/django/django-blog-tutorial
 	url = https://github.com/lexruee/django-blog-tutorial
+[submodule "platforms/python/django/django-polls-tutorial"]
+	path = platforms/python/django/django-polls-tutorial
+	url = https://github.com/lexruee/django-polls-tutorial
