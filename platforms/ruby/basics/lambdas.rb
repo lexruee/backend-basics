@@ -20,4 +20,10 @@ puts adder.call 2, 3
 puts "multiply"
 puts multiplier.call 2, 3
 
+puts "add"
+puts adder[2, 3]
+
+puts "multiply"
+puts multiplier.(2, 3)
+
 
