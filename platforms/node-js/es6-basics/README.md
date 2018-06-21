@@ -1,13 +1,13 @@
-= ES6 Examples
+# ES6 Examples
 
-== Dependencies
+## Dependencies
 
 ```
 npm install -g gulp eslint
 npm install
 ```
 
-== Builiding
+## Building
 
 ```
 gulp
